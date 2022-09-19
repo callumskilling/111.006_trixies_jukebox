@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+* {
+  font-family: 'Rubik Bubbles', cursive;
+  background-color: #edabd0;
+  color: #404040;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.Header {
+  display: grid;
+  grid-template-areas: 
+    "disc"
+    "title";
+  padding: 20px;
+}
+
+.TrixieLogo {
+  grid-area: disc;
+  height: 30vmin;
+  aspect-ratio: 1;
+  pointer-events: none;
+  border-radius: 50%;
+  mix-blend-mode:hard-light;
+  margin: auto;
+}
+
+.Title {
+  grid-area: title;
+  color: #404040;
+  font-size: 72px;
+  margin: 0;
+  padding: 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .TrixieLogo {
+    animation: TrixieLogo-spin infinite 20s linear;
+  }
+}
+
+@keyframes TrixieLogo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

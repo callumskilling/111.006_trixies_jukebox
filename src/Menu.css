@@ -1,0 +1,21 @@
+.MenuContainer {
+    padding: 20px;
+    border: solid 1px #404040;
+    border-radius: 10px;
+}
+
+.Menu {
+    display: flex;
+    flex-direction: column;
+    font-size: 28px;
+}
+
+input {
+    margin: 20px;
+}
+
+.Menu > div {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
