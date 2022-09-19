@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/111.006_trixies_jukebox/static/css/main.0710183e.css",
+    "main.js": "/111.006_trixies_jukebox/static/js/main.52822749.js",
+    "static/js/787.a4efe3be.chunk.js": "/111.006_trixies_jukebox/static/js/787.a4efe3be.chunk.js",
+    "index.html": "/111.006_trixies_jukebox/index.html",
+    "main.0710183e.css.map": "/111.006_trixies_jukebox/static/css/main.0710183e.css.map",
+    "main.52822749.js.map": "/111.006_trixies_jukebox/static/js/main.52822749.js.map",
+    "787.a4efe3be.chunk.js.map": "/111.006_trixies_jukebox/static/js/787.a4efe3be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0710183e.css",
+    "static/js/main.52822749.js"
+  ]
+}
