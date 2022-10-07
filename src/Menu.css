@@ -2,6 +2,8 @@
     padding: 20px;
     border: solid 1px #404040;
     border-radius: 10px;
+    width: fit-content;
+    margin: auto;
 }
 
 .Menu {
@@ -17,5 +19,5 @@ input {
 .Menu > div {
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
 }
