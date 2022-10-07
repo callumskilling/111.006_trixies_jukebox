@@ -1,10 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { Header } from './Header';
-import { Menu } from './Menu'
-import { Video } from './Video';
-import reportWebVitals from './reportWebVitals';
+import { Header } from './Components/Header/Header';
+import { Menu } from './Components/Menu/Menu'
+import { Video } from './Components/Video/Video';
 
 const Videos = {
   YellowCloud: "https://www.youtube.com/embed/VwaHeZwfGB0",
