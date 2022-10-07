@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/111.006_trixies_jukebox/static/css/main.b60af0bc.css",
-    "main.js": "/111.006_trixies_jukebox/static/js/main.52822749.js",
-    "static/js/787.a4efe3be.chunk.js": "/111.006_trixies_jukebox/static/js/787.a4efe3be.chunk.js",
+    "main.css": "/111.006_trixies_jukebox/static/css/main.b76971d7.css",
+    "main.js": "/111.006_trixies_jukebox/static/js/main.66135863.js",
     "index.html": "/111.006_trixies_jukebox/index.html",
-    "main.b60af0bc.css.map": "/111.006_trixies_jukebox/static/css/main.b60af0bc.css.map",
-    "main.52822749.js.map": "/111.006_trixies_jukebox/static/js/main.52822749.js.map",
-    "787.a4efe3be.chunk.js.map": "/111.006_trixies_jukebox/static/js/787.a4efe3be.chunk.js.map"
+    "main.b76971d7.css.map": "/111.006_trixies_jukebox/static/css/main.b76971d7.css.map",
+    "main.66135863.js.map": "/111.006_trixies_jukebox/static/js/main.66135863.js.map"
   },
   "entrypoints": [
-    "static/css/main.b60af0bc.css",
-    "static/js/main.52822749.js"
+    "static/css/main.b76971d7.css",
+    "static/js/main.66135863.js"
   ]
 }
