@@ -32,7 +32,7 @@
 .Title {
   grid-area: title;
   color: #404040;
-  font-size: 72px;
+  font-size: clamp(1rem, 1rem + 5vw, 5rem);
   margin: 0;
   padding: 0;
 }

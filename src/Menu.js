@@ -17,11 +17,11 @@ export class Menu extends React.Component {
         return (
             <div class="MenuContainer">
             <form class="Menu" onClick = { this.handleClick } >
-                <div>📀 Yellow Cloud<input type="radio" name="src" value="YellowCloud" /></div>
-                <div>📀 Video Games<input type="radio" name="src" value="VideoGames" /></div>
-                <div>📀 C'Mon Loretta<input type="radio" name="src" value="CmonLoretta" /></div>
-                <div>📀 Little Sister<input type="radio" name="src" value="LittleSister" /></div>
-                <div>📀 Moving Parts<input type="radio" name="src" value="MovingParts" /></div>
+                <div class="track">📀 Yellow Cloud<input type="radio" name="src" value="YellowCloud" /></div>
+                <div class="track">📀 Video Games<input type="radio" name="src" value="VideoGames" /></div>
+                <div class="track">📀 C'Mon Loretta<input type="radio" name="src" value="CmonLoretta" /></div>
+                <div class="track">📀 Little Sister<input type="radio" name="src" value="LittleSister" /></div>
+                <div class="track">📀 Moving Parts<input type="radio" name="src" value="MovingParts" /></div>
             </form>
         </div>
         );
